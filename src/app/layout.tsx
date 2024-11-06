@@ -12,10 +12,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt_br">
+    <html lang="pt_br" className="bg-zinc-500">
       <body>
         <Cabecalho/>
-        {children}
+          {children}
       </body>
     </html>
   );
