@@ -35,7 +35,7 @@ export default function Home() {
       descricao: "ZenLog é um diário digital de bem-estar corporativo que permite aos colaboradores registrarem suas percepções emocionais e hábitos diários. A plataforma gera panoramas sobre a saúde mental das equipes, utilizando IA para recomendações personalizadas de atividades para desestressar",
       tecnologias: ["Java", "Spring Boot", "PostgreSQL", "Docker", "HTML"],
       linkGithub: "https://github.com/LucasAlmeida-cmd/gs-java-ZenLog",
-      linkAoVivo: "#",
+      linkAoVivo: "https://zenlog.lucasalmeidadev.com.br",
       corFundo: "from-white to-blue-600",
     },
     {
