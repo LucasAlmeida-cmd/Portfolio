@@ -39,11 +39,11 @@ export default function Home() {
       corFundo: "from-white to-blue-600",
     },
     {
-      titulo: "Figan Tintas - Vitrine Virtual",
+      titulo: "Figan Tintas",
       descricao: "Catálogo digital moderno e responsivo para uma loja de tintas físicas, focado em alta performance.",
       tecnologias: ["Next.js", "Tailwind CSS", "React"],
-      linkGithub: "#",
-      linkAoVivo: "#",
+      linkGithub: "https://github.com/LucasAlmeida-cmd/Figan-Tintas",
+      linkAoVivo: "https://figantintas.com.br/",
       corFundo: "from-red-600 to-yellow-500",
     },
     {
